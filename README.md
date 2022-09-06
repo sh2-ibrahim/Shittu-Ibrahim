@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ibrahim Shittu
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning lot of things 
-- 💞️ I’m looking to collaborate on ...
 
 
 <!---
